@@ -1,0 +1,43 @@
+{
+    "clientes": [
+        {
+            "nombre": "Paul (actualizado)",
+            "empresa": "aprendiendo codigo nuevo",
+            "email": "paul@.com",
+            "telefono": "102013313",
+            "notas": "Nueva nota",
+            "id": 1
+        },
+        {
+            "nombre": "Karen",
+            "empresa": "codigo con karen",
+            "email": "karen@karen.com",
+            "telefono": "123456",
+            "notas": "Karen desea una REst API",
+            "id": 2
+        },
+        {
+            "nombre": "Miguel",
+            "empresa": "codigo con Miguel",
+            "email": "miguel@miguel.com",
+            "telefono": "3183284384",
+            "notas": "Nueva nota",
+            "id": 3
+        },
+        {
+            "nombre": "Pedro",
+            "empresa": "codigo con PEdro",
+            "email": "pedro@pedro.com",
+            "telefono": "928384875",
+            "id": 4
+        },
+        {
+            "nombre": "Paul Desde React",
+            "empresa": "aprendiendo",
+            "email": "correo@paul.com",
+            "telefono": "109292",
+            "notas": "El cliente desea un ecommerce",
+            "id": 5
+        }
+    ]
+}
